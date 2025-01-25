@@ -383,10 +383,9 @@ export {
   bigProjects,
   achievementSection,
   blogSection,
-  talkSection,
-  podcastSection,
+ 
   contactInfo,
   twitterDetails,
   isHireable,
-  resumeSection
+    
 };
